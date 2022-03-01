@@ -6,6 +6,6 @@
   "devDependencies": {
     "cheerio": "^1.0.0-rc.3",
     "objects-to-csv": "^1.3.5",
-    "requestretry": "^4.0.2"
+    "requestretry": "^7.0.0"
   }
 }
